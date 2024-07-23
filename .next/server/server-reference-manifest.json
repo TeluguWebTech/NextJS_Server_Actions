@@ -1,0 +1,14 @@
+{
+  "node": {
+    "054d5cd66543988a1631dc93c6d9f8f5ccab2f03": {
+      "workers": {
+        "app/products/mobiles/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CWorkSpace%5C%5CServerActions%5C%5Cserver_actions%5C%5Csrc%5C%5Capp%5C%5Cproducts%5C%5Cmobiles%5C%5Cpage.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/mobiles/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "gT87ZGkMFhp4WdPdq+Kz423TvGp777/9/O/NFsPnXwc="
+}
